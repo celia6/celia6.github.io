@@ -1,0 +1,69 @@
+body {
+    background-color: #7c6e79;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 5pt;
+}
+
+
+.logo {
+    position: fixed;
+    top: 15%;
+    left: 50%;
+    margin-left: -267px;
+    max-height: 600px;
+    max-width: 100%;
+}
+
+h1 {
+    font-size: 25pt;
+    color: #cacbcc;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    letter-spacing: 2pt
+}
+
+h2 {
+    font-size: 15pt;
+    color: #544c4f;
+    font-family: 'Raleway', sans-serif;
+    text-align: right;
+    letter-spacing: 2pt;
+}
+
+p {
+    font-size: 13pt;
+    font-family: 'Dosis', sans-serif;
+    text-align: left;
+    color: #edf0f2;
+    letter-spacing: 2pt;
+}
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: #cccccc;
+}
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+
+}
